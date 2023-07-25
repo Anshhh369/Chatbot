@@ -1,6 +1,8 @@
 # Chatbot
  Langchain chatbot
 
+chatbot, which seamlessly collects information from users and streamlines the appointment scheduling process. In today’s fast-paced world, convenience and efficiency are paramount when it comes to scheduling appointments. Recognizing this need, I embarked on a journey to create a chatbot that serves as a reliable scheduling assistant for booking service appointments with a bank.
+
 To kickstart the implementation of the chatbot, I leveraged the OpenAI platform, specifically utilizing the ‘gpt-3.5-turbo’ model from the OpenAI package which has been optimized for chat purpose. 
 
 # Understanding Chains
